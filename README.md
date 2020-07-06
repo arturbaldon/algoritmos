@@ -5,8 +5,8 @@
      - Diretório: **algoritmos**
      - Organização emissora: **Udemy** -> (www.udemy.com)
      - **Status**:
-       - [x] Em andamento
-       - [ ] Concluido
+       - [ ] Em andamento
+       - [x] Concluido
      - **Certificado**:
        - [ ] Sim
        - [ ] Não
