@@ -21,8 +21,8 @@ Inicio
    
    delta <- Exp(b, 2) - (4 * a * c)
    
-   se (a = 0) ou (delta < 0) entao
-      escreval("Coeficiente 'a' não pode ser 0")
+   se (delta < 0) entao
+      escreval("Esta equação não possui raízes reais")
    senao
         x1 <- ((-b) + RaizQ(delta)) / (2 * a)
         x2 <- ((-b) - RaizQ(delta)) / (2 * a)
